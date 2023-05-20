@@ -1,5 +1,20 @@
 # Domain_Info
 
+## Installation and Setup
+
+To use the `server()` script, follow these steps to add it to your `.bashrc` file:
+
+1. Open your terminal.
+
+2. Open the `.bashrc` file using a text editor. For example, you can use `vim`:
+
+   ```bash
+   vim ~/.bashrc
+   
+ 3. Scroll to the bottom of the file and paste the code from: domain_info.sh in to the file.
+
+
+
 ## Usage
 
 The `server()` function retrieves information about a given domain, such as its IP address and server name. It also supports an optional argument to perform an additional action.
