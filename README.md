@@ -13,7 +13,7 @@ To use the `server()` script, follow these steps to add it to your `.bashrc` fil
    
  3. Scroll to the bottom of the file and paste the code from: domain_info.sh in to the file.
 
-
+Now you can use the script in your terminal by simply typing `server`.
 
 ## Usage
 
